@@ -26,3 +26,11 @@ Sebuah aplikasi web sederhana untuk manajemen penyewaan buku. Dibuat menggunakan
     Buka browser kamu dan arahkan ke URL yang sesuai (biasanya `http://localhost/SewaBukuProject/` atau sesuai dengan konfigurasi web server kamu).
 
 ## Struktur File
+SewaBukuProject/
+├── buku_cari.php
+├── buku_daftar.php
+├── buku_detail.php
+├── buku_edit.php
+├── buku_hapus.php
+├── buku_input.php
+└── uploads/
